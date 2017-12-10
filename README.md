@@ -1,0 +1,2 @@
+# Disaster-Simulation-in-Virtual-Reality
+The goal is to develop a method and process for the automated / semi-automated creation of structures designed for animated destruction to provide an idea of the effects of such disasters. Though it is not expected that physically accurate simulation necessarily be achieved, the animation effects should convey the severity of the disasters on representative structures.
